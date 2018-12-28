@@ -7,7 +7,8 @@
 //
 
 #import "AppDelegate.h"
-
+//http://www.mamicode.com/info-detail-1807382.html
+//https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW7
 @interface AppDelegate ()
 
 @end
@@ -17,6 +18,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    
+   
+    
+    
     return YES;
 }
 
